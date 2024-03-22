@@ -120,7 +120,7 @@ a{
 /*! home start*/
 .home{
     min-height: 100vh;
-    background: url(images/arkaplannnn.jpeg);
+    background: url(IMAGES/arka\ plannnn.jpeg)
     no-repeat;
     background-size: cover;
     background-position: center;
@@ -283,6 +283,11 @@ a{
     font-size: 1.4rem;
     color: black;
 }
+.image{
+    margin-top:10px;
+    width:400px;
+    height: 275px;
+}
 /*! product end*/
 /*! about  start*/
 
@@ -316,7 +321,7 @@ footer {
 }
 
 .about .row img{
-    width: 50%;
+    width: 30%;
     
 
 }
