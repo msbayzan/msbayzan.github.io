@@ -1,0 +1,22 @@
+#uiTable{
+    width:35%;
+    margin: 1%;
+}
+
+tr > td {
+    padding-bottom: 4%;
+}
+
+#submit-btn {
+    margin-top: 5%; 
+}
+
+table tr td input:invalid{
+    border: none;
+    outline: 1px solid red;
+    border-radius: 1px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -ms-border-radius: 1px;
+    -o-border-radius: 1px;
+}
